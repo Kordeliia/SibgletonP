@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SingletonP</string>
+    <string name="toolbar_title">Nuncha Singleton Pattern</string>
+    <string name="toolbar_subtitle">El patrón de singleton</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_search">Search</string>
+    <string name="descripcion_img_perfil">Imagen de perfil</string>
+    <string name="correo_usuario">lalvmun@gmail.com</string>
+    <string name="nickname_usuario">Nunchakita</string>
+    <string name="menu_home">Menu</string>
+    <string name="menu_slideShow">Slide Show</string>
+    <string name="menu_gallery">Galeria</string>
+</resources>
