@@ -10,4 +10,10 @@
     <string name="menu_home">Menu</string>
     <string name="menu_slideShow">Slide Show</string>
     <string name="menu_gallery">Galeria</string>
+    <string name="nav_home_msg">Redirigiendo a home</string>
+    <string name="nav_gallery_msg">Redirigiendo a gallery</string>
+    <string name="nav_slideshow_msg">Redirigiendo a slideshow</string>
+    <string name="tv_home">Welcome Home</string>
+    <string name="tv_gallery">Welcome Gallery</string>
+    <string name="tv_slide_show">Welcome Slide Show</string>
 </resources>
