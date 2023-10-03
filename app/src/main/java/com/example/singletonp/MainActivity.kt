@@ -30,8 +30,8 @@ class MainActivity : AppCompatActivity() {
         }
         val header = binding.navView.getHeaderView(0)
         val headerBinding = NavHeaderMainBinding.bind(header)
-        headerBinding.tvName.text ="Laura AM"
-        headerBinding.tvEmail.text = "lalvmun@hotmail.es"
+        headerBinding.tvName.text = User.user.name
+        headerBinding.tvEmail.text = User.user.email
         val drawerLayout = binding.drawerLayout
         binding.appBarMain.toolbar.setNavigationOnClickListener {
             drawerLayout.open()
